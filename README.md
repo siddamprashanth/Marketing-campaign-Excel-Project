@@ -1,1 +1,1 @@
-# Marketing-campaign-Excel-Project
+Understood the marketing campaign dataset using Excel, cleaned any breaches in the dataset, and applied conditional formatting to certain pivot tables for better understanding. Utilized pivot tables and charts to create the dashboard, incorporating slicers and establishing connections to the charts.
